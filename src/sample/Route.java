@@ -8,6 +8,6 @@ public class Route {
     public String arrivalStoppingPoint;
     public String departureTime;
     public String arrivaTime;
-    public java.util.List<String> TransportTypes;
+    public ArrayList<String> TransportTypes;
     public ArrayList<String> stops;
 }
